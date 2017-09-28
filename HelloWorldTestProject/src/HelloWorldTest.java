@@ -18,6 +18,7 @@ public class HelloWorldTest {
 		System.out.println("GIT test");
 		System.out.println("GIT test-1");
 		System.out.println("GIT test-3");
+		System.out.println("GIT test-2");
 	}
 
 }
