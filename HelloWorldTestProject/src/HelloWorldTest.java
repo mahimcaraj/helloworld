@@ -15,6 +15,7 @@ public class HelloWorldTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("How are you doing?");
+		System.out.println("GIT test");
 
 	}
 
